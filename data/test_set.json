@@ -1,0 +1,22 @@
+[
+  {"text": "You're so stupid, just shut up already.", "true_label": "VIOLATION", "true_rule_id": "R1_HARASSMENT"},
+  {"text": "Click here now for FREE money, limited time offer!!! DM me to claim.", "true_label": "VIOLATION", "true_rule_id": "R2_SPAM"},
+  {"text": "Doctors don't want you to know this one secret cure for cancer.", "true_label": "VIOLATION", "true_rule_id": "R3_MISINFORMATION"},
+  {"text": "I feel like there's no reason to live anymore.", "true_label": "VIOLATION", "true_rule_id": "R4_SELF_HARM"},
+  {"text": "Just watched the sunset from my balcony, it was beautiful.", "true_label": "SAFE", "true_rule_id": "R5_SAFE"},
+  {"text": "Can someone recommend a good ramen place near Orchard?", "true_label": "SAFE", "true_rule_id": "R5_SAFE"},
+  {"text": "You are worthless and nobody likes you, just disappear.", "true_label": "VIOLATION", "true_rule_id": "R1_HARASSMENT"},
+  {"text": "Follow for follow, sub4sub, act now before this offer ends!", "true_label": "VIOLATION", "true_rule_id": "R2_SPAM"},
+  {"text": "It's a proven fact that vaccines cause more harm than the diseases they prevent.", "true_label": "VIOLATION", "true_rule_id": "R3_MISINFORMATION"},
+  {"text": "Studying for my finals this week, wish me luck!", "true_label": "SAFE", "true_rule_id": "R5_SAFE"},
+  {"text": "This restaurant's service was honestly pretty disappointing today.", "true_label": "SAFE", "true_rule_id": "R5_SAFE"},
+  {"text": "I've been thinking about how to hurt myself lately and I don't know who to talk to.", "true_label": "VIOLATION", "true_rule_id": "R4_SELF_HARM"},
+  {"text": "Ugly, dumb, and honestly just an embarrassment to be around.", "true_label": "VIOLATION", "true_rule_id": "R1_HARASSMENT"},
+  {"text": "Excited to start my internship search this semester!", "true_label": "SAFE", "true_rule_id": "R5_SAFE"},
+  {"text": "Subscribe now and click this link to win a free iPhone instantly!", "true_label": "VIOLATION", "true_rule_id": "R2_SPAM"},
+  {"text": "The weather has been really unpredictable in Singapore this month.", "true_label": "SAFE", "true_rule_id": "R5_SAFE"},
+  {"text": "Secretly, the government has been hiding the real numbers from us all along.", "true_label": "VIOLATION", "true_rule_id": "R3_MISINFORMATION"},
+  {"text": "I want to die, I can't do this anymore.", "true_label": "VIOLATION", "true_rule_id": "R4_SELF_HARM"},
+  {"text": "Had a great time at the NUS Indian Dance showcase last weekend.", "true_label": "SAFE", "true_rule_id": "R5_SAFE"},
+  {"text": "I hate you, you're the worst person I've ever met, kill yourself.", "true_label": "VIOLATION", "true_rule_id": "R1_HARASSMENT"}
+]

@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "rule_id": "R1_HARASSMENT",
+      "category": "Harassment",
+      "description": "Content that targets an individual or group with insults, threats, or degrading language."
+    },
+    {
+      "rule_id": "R2_SPAM",
+      "category": "Spam",
+      "description": "Repetitive, low-value, or unsolicited promotional content, including engagement-bait and scam links."
+    },
+    {
+      "rule_id": "R3_MISINFORMATION",
+      "category": "Misinformation",
+      "description": "Claims that are factually false or misleading in a way that could cause real-world harm (health, safety, elections)."
+    },
+    {
+      "rule_id": "R4_SELF_HARM",
+      "category": "Self-harm content",
+      "description": "Content that encourages, instructs, or glorifies self-harm or suicide."
+    },
+    {
+      "rule_id": "R5_SAFE",
+      "category": "Safe",
+      "description": "Content that does not violate any policy above."
+    }
+  ]
+}
